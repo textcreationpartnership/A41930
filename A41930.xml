@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great newes from the Barbadoes, or, A True and faithful account of the grand conspiracy of the Negroes against the English and the happy discovery of the same with the number of those that were burned alive, beheaded, and otherwise executed for their horrid crimes : with a short discription of that plantation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41930</idno>
+            <idno type="STC">Wing G1733</idno>
+            <idno type="STC">ESTC R26758</idno>
+            <idno type="EEBO-CITATION">09531673</idno>
+            <idno type="OCLC">ocm 09531673</idno>
+            <idno type="VID">43536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43536)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1332:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great newes from the Barbadoes, or, A True and faithful account of the grand conspiracy of the Negroes against the English and the happy discovery of the same with the number of those that were burned alive, beheaded, and otherwise executed for their horrid crimes : with a short discription of that plantation.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Imperfect: p. 6 lacking.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Slave insurrections etc. --  Barbados</term>
+               <term>Barbados --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43536:1" rendition="simple:additions"/>
+            <p>GREAT NEWES FROM THE Barbadoes. OR, A True and Faithful ACCOUNT OF THE Grand Conſpiracy OF The <hi>Negroes</hi> againſt the <hi>Engliſh.</hi> AND The Happy Diſcovery of the ſame. WITH The number of thoſe that were burned alive, Beheaded, and otherwiſe Executed for their Horrid Crimes. With a ſhort Diſcription of that PLANTATION.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>L. Curtis</hi> in <hi>Goat-Court</hi> upon <hi>Ludgate-Hill,</hi> 1676</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:43536:2"/>
+            <pb n="3" facs="tcp:43536:2"/>
+            <head>A DISCRIPTION OF Barbadoes.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore we proceed to the Particulars of that Conſpiracy, which had like in one Moment to have defaced the moſt Flou<g ref="char:EOLhyphen"/>riſhing Colony the <hi>Engliſh</hi> have in the World, it will not be amiſs a little to conſider the Nature, Situation, and Commodities of the Place; not that we ſhall trouble the Reader with a Hiſtory of the Iſland, that being needleſs, Eſpe<g ref="char:EOLhyphen"/>cially to ſuch as have ever read Ingenious Mr. <hi>Ligon</hi> on that ſubject; whoſe flouriſhes in Rhetorick, though in ſome things Poetical, yet in the main do keep ſuch a Chain of truth, that the Romantick part rather guilds then diſlincks the Hiſtory. My
+<pb facs="tcp:43536:3"/>
+               <pb n="4" facs="tcp:43536:3"/>own Experience of <hi>Barbadoes,</hi> in a time when it had Received the moſt Improvement it was Capable of, (which was not long before the diſcovery of this Almoſt Fatal Plot; will not however ſuffer me to go further in my Praiſes of it than he did (as I may almoſt ſay by Prophecy): for Mr. <hi>Ligon</hi> happened to be there in a time when all or moſt upon the Iſland did not more ſweat by occaſion of the heat, than they did for the bare neceſſities of life; few of thoſe many great Eſtates, that are now there, being then in any other Eſſence then in Proſpect: Nor was there then any Houſes which could boaſt a Grandeur much more conſiderable than thoſe, moſt of our Villages are compoſed of: So that indeed he ſaw little more to praiſe then that much Celebrated perpetual Ver<g ref="char:EOLhyphen"/>dure that Adorns the ſeveral Native Trees of that warm World.</p>
+            <p>Nor can indeed too much Commendation be given to that Pleaſant Proſpect, which ſalutes a Stranger's Eye as he ſayles along the Shoar to <hi>Carliſie</hi> Bay, the Chief Road for Ships in the Iſland, ſecu<g ref="char:EOLhyphen"/>red from Forraign Invaſion by a Fort-Royal ſtrong<g ref="char:EOLhyphen"/>ly built of Stone, and ſituated in the Eaſtermoſt Point of Land that Compaſſes that Bay, in which there is conſtantly mounted 40 Guns, whoſe warm Mouths ſpoke Terrour to <hi>De Ruyter</hi> in his Attempt on that Iſland in the Year 1664. At the Bottom of this Bay ſtands the Bridge-Town, which hath twice ſince its firſt building been reduced almoſt to no<g ref="char:EOLhyphen"/>thing by Fire; yet thereby hath not ſo warned the
+<pb facs="tcp:43536:4"/>
+               <pb n="5" facs="tcp:43536:4"/>Inhabitants, but that for haſt and want of Conſide<g ref="char:EOLhyphen"/>ration it hath again been rebuilt without that Exact Order in the Houſes and Streets that might ſecure it from having that dangerous Element ſo totally pre<g ref="char:EOLhyphen"/>vail the third time. And ſhould it do ſo, (which God forbid) it would level many Coſtly and Stately Hou<g ref="char:EOLhyphen"/>ſes which Compoſe amongſt many other little ones, that Popular though ſomething Confuſed Town; which was it but contriv'd for proper Receits of the Breeſe through its Streets for letting in through Venteducts the Wind into their houſes, would be much more pleaſant to live in the heat; As it is now built, being to Strangers at their firſt coming there ſcarce tolerable. For this Iſland which lyes betwixt 13 and 14 degrees of North Latitude, muſt needs have the Sun twice a year in its Zenith, the Inhabi<g ref="char:EOLhyphen"/>tants ſeeing him againſt their will make his Progreſs over their heads as he goes and returns in his Viſit to the Tropick of <hi>Cancer;</hi> ſo that for ſome Moneths being on the North ſide of them; And when fur<g ref="char:EOLhyphen"/>theſt off, not ſo far as to vary the length of their days and Nights one hour, the Country muſt of neceſſity be exceeding hot: Nor would it be more habitable then the Ancients believe the Torrid Zone to be (within in which Circle this Iſland ſtands) were it not for the Refreſhing Gales that for ever from ſome Quarter of the Eaſt Fans Cool, and conſequently refreſh the Inhabitants of this Flouriſhing Iſland. Nor is the Conveniency from the Wind only this, but perhaps the Inhabitants owe to it All or the grea<g ref="char:EOLhyphen"/>teſt <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb facs="tcp:43536:5"/>
+               <pb n="7" facs="tcp:43536:5"/>
+               <hi>and the Winde work.</hi> And no doubt, let others gueſs what they pleaſe to be the Occaſion of the <hi>Conſpiracy</hi> I am treating of, It could have its hopes of Succeſs in the general from nothing but their deſire of being Eaſed from that Continual Work, which by being Slaves, they and their Poſterity are lyable to: for let ſome ſay what they pleaſe, I am of the Opinion, That no man labours but by neceſſity; Or hopes at laſt to gain that to live on which may give him reſt. Or whether it be my own Lazy Temper that preju<g ref="char:EOLhyphen"/>dices me in the Point or no, I cannot tell: But I am ſure in my Converſing with them, or Inquiring into the Natures and Deſires of that People, I could ne<g ref="char:EOLhyphen"/>ver find they deſired any thing ſo much as to have time for Play.</p>
+            <p>But not to trouble our ſelves to gueſs, what ſhould Occaſion that, which no doubt beſides the former hath many Complicated Cauſes working in the dif<g ref="char:EOLhyphen"/>ferent Perſons Engaged in it, we will without loſing more time in Commendation either of the Hoſpita<g ref="char:EOLhyphen"/>lity, or Number of the ſplendid Planters, who for Sumptuous Houſes, Cloaths and Liberal Entertain<g ref="char:EOLhyphen"/>ment cannot be Exceeded by this their Mother King<g ref="char:EOLhyphen"/>dome it ſelf. Or in Reciting the Excellency of their Fruits, eſpecially the Pine ſo much Celebrated by more learned Pens: Or of the Prodigious Succeſs they have found in the Improvement of ſeveral new<g ref="char:EOLhyphen"/>ly introduced Fruits, eſpecially of that called <hi>China Oranges,</hi> the goodneſs of which exceeds any we have ever had from <hi>Portugal.</hi> But to leave thoſe, the Musk-Melons,
+<pb facs="tcp:43536:6"/>
+               <pb n="8" facs="tcp:43536:6"/>Grapes, Figs, Prickle Pears, Guavers, Pome<g ref="char:EOLhyphen"/>granets, Citrons, Sour Sops, and ſweet Lemmons of a vaſt bigneſs, and delicate pleaſant taſte. And all Kitching Garden-Herbs, and Fruits (are much bet<g ref="char:EOLhyphen"/>ter and more fragrant then in <hi>England</hi>) that are there at almoſt all times of the year to be had in their Excellency. Beſides, there are Medicinal Plants, as Galingal, Colliquintida, Balſom <hi>naturale,</hi> Balſom with Balſamick, Tar, Gumaſtick, Gumallemna, Alloes, Guiacum, and ſeveral other Medicinal Herbs, and all other things of this kind.</p>
+            <p>I will now proceed to the Particular of my Story, wherein, if I have not ſo much Art as another might have done it with, yet ſhall you have no un<g ref="char:EOLhyphen"/>truth mixt with the ſhort ſtory of it.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:43536:7"/>
+            <pb n="9" facs="tcp:43536:7" rendition="simple:additions"/>
+            <head>THE RELATION of a CONSPIRACY in the <hi>BARBADOES.</hi>
+            </head>
+            <p>THis <hi>Conſpiracy</hi> firſt broke out and was hatch<g ref="char:EOLhyphen"/>ed by the <hi>Cormantee</hi> or <hi>Gold-Coſt Negro's</hi> about Three years ſince, and afterwards Cun<g ref="char:EOLhyphen"/>ingly and Clandeſtinely carried, and kept ſecret, even from the knowledge of their own Wifes.</p>
+            <p>Their grand deſign was to chooſe them a King, one <hi>Coffee</hi> an Ancient Gold-Coſt <hi>Negro,</hi> who ſhould have been Crowned the 12th of <hi>June</hi> laſt paſt in a Chair of State exquiſitely wrought and Carved af<g ref="char:EOLhyphen"/>ter their Mode; with Bowes and Arrowes to be likewiſe carried in State before his Majeſty their in<g ref="char:EOLhyphen"/>tended
+<pb n="10" facs="tcp:43536:8"/>King: Trumpets to be made of Elephants Teeth and Gourdes to be ſounded on ſeveral Hills, to give Notice of their general Riſing, with a full intention to fire the Sugar-Canes, and ſo run in and Cut their Maſters the Planters Throats in their re<g ref="char:EOLhyphen"/>ſpective Plantations whereunto they did belong.</p>
+            <p>Some affirm, they intended to ſpare the lives of the Faireſt and Handſomeſt Women (their Miſtreſſes and their Daughters) to be Converted to their own uſe. But ſome others affirm the contrary; and I am induced to believe they intended to Murther all the White People there, as well Men as Women: for <hi>Anna</hi> a houſe Negro Woman belonging to Juſtice <hi>Hall,</hi> over-hearing a Young <hi>Cormantee Negro</hi> about 18 years of age, and alſo belonging to Juſtice <hi>Hall,</hi> as he was working near the Garden, and diſcourſing with another <hi>Cormantee Negro</hi> working with him, told him boldly and plainly, <hi>He would have no hand in killing the</hi> Baccararoes <hi>or White Folks; And that he would tell his Maſter.</hi> All which the aforeſaid <hi>Ne<g ref="char:EOLhyphen"/>gro</hi> Woman (being then accidentally in the Garden) over-heard, and called to him the aforeſaid Young <hi>Negro</hi> Man over the Pales, and enquired and asked of him <hi>What it was they ſo earneſtly were talking about?</hi> He anſwered and told her freely; <hi>That it was a ge<g ref="char:EOLhyphen"/>neral Deſign amongſt them the</hi> Cormantee Negro's, <hi>to kill all the</hi> Baccararoes <hi>or White People in the Iſland within a fortnight.</hi> Which ſhe no ſooner underſtood, but went immediately to her Maſter and Miſtris, and
+<pb n="11" facs="tcp:43536:8" rendition="simple:additions"/>diſcovered the whole truth of what ſhe heard, ſay<g ref="char:EOLhyphen"/>ing withal, <hi>That it was great Pity ſo good people as her Maſter and Miſtriſs were, ſhould be deſtroyed.</hi> Which was the firſt diſcovery that I can learn came to the knowledge of the worthy Inhabitants of that Noble and moſt flouriſhing Iſland.</p>
+            <p>Afterwards the Diſcreet and Prudent Juſtice ſent preſently for the young <hi>Negro</hi> Man, who diſcovered and impeached ſeveral, as well his own Maſter's <hi>Negro's</hi> as others belonging to the adjacent Planta<g ref="char:EOLhyphen"/>tions who hand a hand in this Plot.</p>
+            <p>Of all which the ſaid Juſtice ſending the true In<g ref="char:EOLhyphen"/>formation to that Noble Perſon (now Governour there) Sir <hi>Jonathan Atkins,</hi> he with his Life-Guard preſently came to the houſe of the aforeſaid Juſtice <hi>Hall,</hi> and granted him and others Commiſſions to apprehend the guilty and impeached <hi>Negroes,</hi> with the Ring-leaders of this fatal Conſpiracy; which in purſuance was put in Execution with much Celerity and Secrecy, that the Heads and Chief of theſe un<g ref="char:EOLhyphen"/>grateful wretches (who I have often heard confeſs to live better in Servitude there, then at Libertty in their own Native Country) were apprehended and brought to Tryal at a Court of <hi>Oyer</hi> and <hi>Terminer</hi> granted by the aforeſaid Governour to a Dozen or more of the Colonels and Field-Officers as Judges of that Iſland; Who after ſtrict and due Examination of the matter of Fact of their Conſpiracy, at firſt Se<g ref="char:EOLhyphen"/>venteen
+<pb n="12" facs="tcp:43536:9"/>were found guilty and Executed, <hi>(viz.)</hi> Six burnt alive, and Eleven beheaded, their dead bodies being dragged through the Streets, at <hi>Spikes</hi> a plea<g ref="char:EOLhyphen"/>ſant Port-Town in that Iſland, and were afterwards burnt with thoſe that were burned alive.</p>
+            <p>One of thoſe that were burned alive being chained at the ſtake, was perſwaded by that honeſt Gentle<g ref="char:EOLhyphen"/>man Mr. <hi>George Hannow,</hi> the Deputy Provoſt-Mar<g ref="char:EOLhyphen"/>ſhall, <hi>That ſince he was going to ſuffer death, Ingeniouſly to Confeſs the depth of their deſign.</hi> The <hi>Negro</hi> cal<g ref="char:EOLhyphen"/>ling for water to drink (which is a Cuſtome they uſe before they tell or diſcover any thing) he juſt then going to ſpeak and confeſs the truth of what he knew in this Matter; The next <hi>Negro</hi> Man chained to him (one <hi>Tony,</hi> a ſturdy Rogue, a <hi>Jew</hi>'s <hi>Negro</hi>) jogged him, and was heard to Chide him in theſe words, <hi>Thou Fool, are there not enough of our Country-men killed already? Art thou minded to kill them all?</hi> Then the aforeſaid <hi>Negro</hi> that was a going to make Con<g ref="char:EOLhyphen"/>feſſion, would not ſpeak one word more.</p>
+            <p>Which the ſpectators obſerving, cryed out to <hi>Tony, Sirrah, we ſhall ſee you fry bravely by and by.</hi> Who an<g ref="char:EOLhyphen"/>ſwered undauntedly, <hi>If you Roaſt me to day, you cannot Roaſt me to morrow:</hi> (all thoſe <hi>Negro's</hi> having an opi<g ref="char:EOLhyphen"/>nion that after their death they go into their own Countrey) Five and Twenty more have been ſince Executed. The particulars of whoſe due Puniſhment are not yet come to my hands.</p>
+            <p>Five impeached Hanged themſelves, becauſe they would not ſtand Tryal.</p>
+            <pb n="13" facs="tcp:43536:9" rendition="simple:additions"/>
+            <p>Threeſcore and odd more are in Cuſtody at the <hi>Hole,</hi> a fine Haven and ſmall Town in the ſaid Iſland, and are not as yet brought to Tryal.</p>
+            <p>Thus eſcaped from Eminent dangers, this flouriſh<g ref="char:EOLhyphen"/>ing and Fertile Iſland, or to ſay more properly Spa<g ref="char:EOLhyphen"/>tious and profitable Garden, one of the chiefeſt of his Majeſties Nurſeries for Sea-men.</p>
+            <p>This little Spot imploying every year above 100 good Merchants Ships, to carry off its product; <hi>viz.</hi> Sugar, Ginger, Cotton, and Indigo; of which I have heard it affirmed, That that Earth and Rich ſoyl be<g ref="char:EOLhyphen"/>ing ſo thinly placed on moſt part of the ſaid Iſland, as not exceeding above half a foot in depth, the ſaid pro<g ref="char:EOLhyphen"/>duct ſince its firſt manuring carried off in ſeveral years, much exceeds in bulk and weight the ſurface of the Iſland, it being only a Rock. So leaving to others the giving an account of the great plenty of freſh Fiſh there, though of different ſhapes and names from ours, which it exceeds in pleaſantneſs and nouriſh<g ref="char:EOLhyphen"/>ment, eſpecially the Turtles there caught; their ad<g ref="char:EOLhyphen"/>mirable Pork, Poultry &amp;c. Their Wood Pidgeons, Turtle-Doves of ſeveral kinds, wild Fowls, Plovers, Thruſhes, Crabs, Lobſters, Prawns, and all other ne<g ref="char:EOLhyphen"/>ceſſary and pleaſant Proviſions in abundance, both Fiſh and Fleſh. But above all, admirable (conſidering it is ſo ſmall an Iſland) is the Populouſneſs thereof; for I have ſeen at a General Rendezvous in <hi>Hetherſals</hi> Paſture 12000 well Armed fighting men, Horſe and Foot, of the Train-Bands, beſides <hi>Negro's</hi> that waited
+<pb n="14" facs="tcp:43536:10"/>on their Maſters: And I have lately ſeen a liſt taken by Authority that amounts to above 80000 Souls. 'Tis fortified (beſides the ſtone Wall all a long the places of moſt danger for Landing, near the Sea-ſide) with ſeveral ſtrong uniform Forts Alla-Modern, well mounted with ſtore of great Guns; ſo as conſidering the ſtrength, Riches, Pleaſant ſcituation, Populouſ<g ref="char:EOLhyphen"/>neſs and good Hoſpitality of thoſe Noble Gentlemen there now inhabiting, I conclude it to be the fineſt and worthieſt Iſland in the World.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43536:10" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
